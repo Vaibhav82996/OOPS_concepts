@@ -18,4 +18,9 @@ print(list(student.items()))
 
 #get().
 print(student.get("subjects"))
-print(student.get("bio")) # it gives none.
+print(student.get("bio")) # it gives none. code after this will mever run.
+
+#update().
+new_dict = {"city" : "kanpur" , "venue" : "N-Block"}
+student.update(new_dict)
+print(student)
