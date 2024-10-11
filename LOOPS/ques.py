@@ -41,4 +41,7 @@ i = 0
 while i < len(tup):
     if(tup[i] == x):
         print("Fount at index",i)
+    else:
+        print("finding...")
         i +=1 
+    print("Loop end here")
