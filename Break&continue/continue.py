@@ -23,4 +23,4 @@ while i <= 50:
         i +=1
         continue
     print(i)
-    i +=1
+    i +=1         
