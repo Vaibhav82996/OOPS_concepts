@@ -17,7 +17,7 @@ def print_list(list):
     
 print_list(cars)    
 
-#waf to find factorial of n.
+#3: waf to find factorial of n.
 def calc_fact(n):
     fact = 1
     for i in range(1,n+1):
@@ -27,7 +27,7 @@ def calc_fact(n):
 calc_fact(6)
 
 
-#waf to convert USD to INR.....
+#4: waf to convert USD to INR.....
 def converter(usd_value):
     inr_value = usd_value * 84.06
     print(usd_value,"USD =", inr_value,"INR")

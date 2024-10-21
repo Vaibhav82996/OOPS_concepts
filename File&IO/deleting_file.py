@@ -1,0 +1,3 @@
+#Deleting files....
+import os
+os.remove("example.txt")
