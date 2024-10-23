@@ -13,7 +13,7 @@ class car:
     brand2 = "mercedes"
     brand3 = "audi"
     color = "Black"
-    yer_manuf = "2023"
+    yer_manuf = "2024"
 
 car1 = car()
 print(car1.brand1)
